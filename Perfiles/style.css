@@ -41,6 +41,9 @@ body {
     border-radius: 4px;
 }
 
+.total:hover {
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
 
 .img-sm {
     margin: 0;
